@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "/React-Clicky-Game/images/Ahsoka.jpg"
+   
+},
+  {
+    "id": 2,
+    "name": "/React-Clicky-Game/images/babyyodes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "/React-Clicky-Game/images/bb8.jpg"
+  },
+  {
+    "id": 4,
+    "name": "/React-Clicky-Game/images/bobafett.jpg"
+  },
+  {
+    "id": 5,
+    "name": "/React-Clicky-Game/images/c3po.jpg"
+  },
+  {
+    "id": 6,
+    "name": "/React-Clicky-Game/images/darthV.jpg"
+  },
+  {
+    "id": 7,
+    "name": "/React-Clicky-Game/images/Kyloren.jpg"
+  },
+  {
+    "id": 8,
+    "name": "/React-Clicky-Game/images/millenniumf.jpg"
+  },
+  {
+    "id": 9,
+    "name": "/React-Clicky-Game/images/r2d2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "/React-Clicky-Game/images/rey.jpg"
+  },
+  {
+    "id": 11,
+    "name": "/React-Clicky-Game/images/stormt.jpg"
+  },
+  {
+    "id": 12,
+    "name": "/React-Clicky-Game/images/walkers.jpg"
+  }
+]

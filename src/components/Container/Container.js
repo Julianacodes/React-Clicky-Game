@@ -1,7 +1,6 @@
 import React from "react";
 import "./Container.css";
 import Character from "../Character";
-import { SSL_OP_DONT_INSERT_EMPTY_FRAGMENTS } from "constants";
 
 const Container = (props) => (
   <div

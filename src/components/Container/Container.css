@@ -16,7 +16,7 @@
   perspective: 1000px;
 }
 
-.shake {
+/* .shake {
   animation: shaker 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 
@@ -41,4 +41,4 @@
   60% {
     transform: translate3d(4px, 0, 0);
   }
-}
+} */

@@ -54,7 +54,6 @@ class ClickyGame extends Component {
         />
         <Banner />
         <Container
-          shake={state.shake}
           characters={state.images}
           clickEvent={this.clickEvent}
         />

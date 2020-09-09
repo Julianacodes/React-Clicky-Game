@@ -5,8 +5,8 @@ import Character from "../Character";
 const Container = (props) => (
   <div
     className={
-      props.shake
-        ? "container d-flex flex-wrap justify-content-center shake"
+      props.wrapper
+        ? "container d-flex flex-wrap justify-content-center"
         : "container d-flex flex-wrap justify-content-center"
     }
   >

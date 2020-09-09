@@ -9,6 +9,6 @@ I created a Star Wars themed memory game with React. This assignment required me
 
 * The images will shuffle around and there is a score tracker to let you know how many points you have. 
 
-*If you click the same image more than once you will lose and the game will start over again. 
+* If you click the same image more than once you will lose and the game will start over again. 
 
-*See if you can beat the highscore
+* See if you can beat the highscore
